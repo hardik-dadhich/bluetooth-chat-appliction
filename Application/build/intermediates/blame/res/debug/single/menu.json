@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\bluetooth_chat.xml",
+        "source": "H:\\BluetoothChat\\Application\\src\\main\\res\\menu\\bluetooth_chat.xml"
+    },
+    {
+        "merged": "H:\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "H:\\BluetoothChat\\Application\\src\\main\\res\\menu\\main.xml"
+    }
+]

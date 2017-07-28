@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\DeLL\.android\build-cache\a2b135595f3661d7b8963931e2f73622302d3ee9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="H:\BluetoothChat\Application\build\intermediates\pre-dexed\debug\classes_48027bdb94ace4698970defe2ce6f62f1b1af17f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DeLL\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="H:\BluetoothChat\Application\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_4d999dd09ef7fe1c6f6a9ffb6706cef8036f0b5d.jar" />
+    </item>
+
+</items>
